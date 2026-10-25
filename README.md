@@ -8,6 +8,6 @@ The data was produced on the basis of Yugoslav archival sources:
 The repository contains:
 * A nodes file.
 * An edges file.
-* Sample visualizations from Gephi: a general view of the graph and two ego-networks (Veljko Vlahovic and Ezekeias Pappaioanou).
+* Sample visualizations from Gephi: the graph on a Yifan Hu layout; three ego-networks (Veljko Vlahovic, Bosko Siljegovic, and Ezekeias Pappaioanou).
 
 The data was initially storaged on a Heurist relational database. It was exported initially as a .gefx graph file, from which the nodes and edges file were created.
